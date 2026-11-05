@@ -1,5 +1,6 @@
+<div align="center">
 
-
+<img src="assets/ocodejs-logo.gif" alt="OCode.js animated logo" width="420" />
 
 **A lightweight, dependency-free JavaScript and TypeScript utility toolkit for modern web apps.**
 
